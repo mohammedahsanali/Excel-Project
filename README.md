@@ -3,3 +3,5 @@ In this project, I conducted a comprehensive Fitbit potential customer analysis 
 My expertise in creating dynamic dashboards allowed me to visually present complex data in an intuitive manner. By integrating advanced Excel functions and VBA automation, I streamlined the analysis process and ensured accurate results. Additionally, my ability as a problem solver and finder helped address any challenges encountered during data cleaning and processing, ensuring the reliability of the final outcomes.
 
 Moreover, my strong soft skills facilitated effective communication and collaboration with team members, ensuring a seamless project execution from data collection to insights generation. By merging technical proficiency with interpersonal abilities, I not only delivered a robust potential customer analysis but also contributed to a cohesive team environment.
+
+To view the project please download raw file which a zip folder attached.
